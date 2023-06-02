@@ -1,1 +1,11 @@
 Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
+Problem statement:
+  develope a content-based recommender system aimed at recommending 5 similar shows to individual customers
+  
+- Finish by 6/27/23
+- milestones checkin Thursday/Friday of each week
+    - 6/1 eda
+    - 6/8 try model
+    - 6/15 crossvalidation & tune
+    - 6/22 function & wrap up
+    - 6/27 present  
